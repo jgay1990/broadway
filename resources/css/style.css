@@ -4,7 +4,7 @@ body {
 }
 
 #header {
-  background-image: url(broadway/resources/images/the-flatiron-building.png);
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
 }
 
@@ -33,7 +33,7 @@ p {
 }
 
 #design {
-  background-image: url(broadway/resources/images/the-flatiron-building.png);
+  background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
   color: white;
@@ -41,6 +41,7 @@ p {
 
 #footer {
   background-color: dimgray;
+  text-align: left;
 }
 
 #copyright {
